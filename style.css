@@ -1,0 +1,9 @@
+.sortElement {
+  width: 5px;
+  background-color: navy;
+}
+#sortContainer {
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+}
